@@ -4,7 +4,7 @@ FOS (Faculty of (Computer and Information Science) OS) is an educational OS for 
 FOS is actively and developed and extended with new features mainly in memory management.
 
 Current additions to orginial MIT OS:
- - Simplified and automatic addition of user executables.
+ - Simplified and automatic addition of user executables
  - Swap Memory (Secondry Memory)
  - Page Buffering (Modified Buffer + Non-modified pages in Free Frame List)
 
